@@ -6,12 +6,12 @@
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "jnzhang622@gmail.com",
     "phone": "646-270-1672",
     "address":{
-      "street":"(Your Street)",
+      "street":"32 Edward Ct",
       "city":"Staten Island",
-      "state":"New york",
+      "state":"New York",
       "zip": "10314"
     },
     "website": "http://www.timbakerdev.com",
@@ -44,7 +44,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/jnzhang622",
         "className":"fa fa-github"
       },
       {
@@ -64,8 +64,8 @@
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
+        "school":"Devry College",
+        "degree":"Computer Networking",
         "graduated":"March 2003",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
@@ -121,31 +121,31 @@
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.linkedin.com/in/johnzhang622/"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.linkedin.com/in/johnzhang622/"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://www.linkedin.com/in/johnzhang622/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.linkedin.com/in/johnzhang622/"
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://www.linkedin.com/in/johnzhang622/"
       }
     ]
   },
