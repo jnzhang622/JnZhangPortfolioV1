@@ -65,7 +65,7 @@
       },
       {
         "school":"Devry College",
-        "degree":"Computer Networking",
+        "degree":"Computer Network Management",
         "graduated":"March 2003",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
@@ -87,15 +87,15 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"ReactJs",
         "level":"50%"
       },
       {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
         "name":"CSS",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
