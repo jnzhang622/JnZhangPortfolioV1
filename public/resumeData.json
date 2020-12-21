@@ -10,7 +10,7 @@
     "phone": "646-270-1672",
     "address":{
       "street":"32 Edward Ct",
-      "city":"Staten Island",
+      "city":"New York",
       "state":"New York",
       "zip": "10314"
     },
@@ -100,6 +100,10 @@
       {
         "name":"HTML5",
         "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"30%"
       }
     ]
   },
@@ -127,12 +131,6 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"https://www.linkedin.com/in/johnzhang622/"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
         "url":"https://www.linkedin.com/in/johnzhang622/"
       }
     ]
