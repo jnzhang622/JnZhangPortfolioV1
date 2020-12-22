@@ -15,42 +15,17 @@
       "zip": "10314"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1z9nheqlXmHGLkAkLS7QASd9GZPwnL30W/view?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/johnzhang622/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"http://github.com/jnzhang622",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -87,7 +62,7 @@
     "skills":[
       {
         "name":"Git",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"ReactJs",
@@ -95,11 +70,11 @@
       },
       {
         "name":"CSS",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"C++",
@@ -110,28 +85,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.linkedin.com/in/johnzhang622/"
+        "title":"uToobPlayer",
+        "category":"Youtube has a habit of pausing my music if I've been idle, so I made my own custom player",
+        "image":"utoobplayer.jpg",
+        "url":"https://youtu.be/sSCJfxQ2ZFg"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"https://www.linkedin.com/in/johnzhang622/"
+        "title":"Coin Market Watch",
+        "category":"An app to view information about bitcoins and keep an eye select ones",
+        "image":"coinmarketwatch.jpg",
+        "url":"https://youtu.be/U9av52Uhn_s"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"https://www.linkedin.com/in/johnzhang622/"
+        "title":"MultiStreamer",
+        "category":"Website I built to watch multiple streams side by side (primarily Among Us)",
+        "image":"multistreamer.jpg",
+        "url":"https://youtu.be/8z8y1yk3Mbw"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://www.linkedin.com/in/johnzhang622/"
+        "title":"Pokemon Team Builder",
+        "category":"A Ruby CLI app to keep track of Pokemon teams I make",
+        "image":"pokemonteambuilder.jpg",
+        "url":"https://youtu.be/3gAXutsQ59E"
       }
     ]
   },
