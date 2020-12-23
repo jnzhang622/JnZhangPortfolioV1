@@ -2,9 +2,9 @@
   "main": {
     "name":"John Zhang",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I find programing to be an adventure as well as constant puzzles waiting to be solved. The frustration of being stumped is off putting but the satisfaction of success is soooo addicting",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a Software Engineer experienced in Ruby on Rails and JavaScript based programming with a background in Computer Support. I possess much experience in conveying technical terms to simpler interpretation. I am passionate about using my Software Engineering expertise to make complex technology, less so and for the usage of it's various tools to be an enjoyable experience. On the side I am a casual gamer, a platform that I would love to dive into and potentially show others a world I've only dreamt of.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jnzhang622@gmail.com",
     "phone": "646-270-1672",
@@ -26,37 +26,36 @@
         "name":"github",
         "url":"http://github.com/jnzhang622",
         "className":"fa fa-github"
+      },
+      {
+        "name":"medium",
+        "url":"https://www.medium.com/@jnzhang622",
+        "className":"fa fa-book"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"With a foundation in Ruby and Javascript, I am confident I can learn any framework. I love a challenge!",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Flatiron School",
+        "degree":"Full-Stack Engineer",
+        "graduated":"August 2020",
+        "description":"Flatiron School is an intensive program where I was taught how to utilize Ruby/Rails and Javascript/React to create fully interactive websites. This rigorous program has a reputation of developing software engineers who utilize their education in the program to jump start a career in the fast-paced and high demand world of software engineering. "
       },
       {
         "school":"Devry College",
-        "degree":"Computer Network Management",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Network and System Administration",
+        "graduated":"June 2016",
+        "description":"I was taught how to utilize and manage network devices such as routers, switches and servers to build fully functioning computer networks."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
+        "company":"UnidataIT",
+        "title":"Relocation Specialist",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Troubleshoot level 1 technical help desk problems as day 1 support to device relocations. (such as faulty mouse/keyboard/monitor, audio problems, monitor arm adjustments) Communicated in person professionally with a variety of users. Conduct logistical/technical surveys specifying quantities, placement, and location of end-user devices. Perform quality assurance testing to verify accurate drive mappings, IP addressing, host names, and functionality of applications by physical testing of equipment on site"
       }
     ],
     "skills":[
@@ -113,12 +112,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Testimonial of person 1",
+        "user":"Some person 1"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Testimonial of person 2",
+        "user":"Some person 2"
       }
     ]
   }
