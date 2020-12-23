@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"With a foundation in Ruby and Javascript, I am confident I can learn any framework. I love a challenge!",
+    "skillmessage":"Possess a foundation foundation in Ruby and Javascript, I am confident I can learn any framework or language.",
     "education":[
       {
         "school":"Flatiron School",
@@ -53,9 +53,9 @@
     "work":[
       {
         "company":"UnidataIT",
-        "title":"Relocation Specialist",
-        "years":"March 2010 - Present",
-        "description":"Troubleshoot level 1 technical help desk problems as day 1 support to device relocations. (such as faulty mouse/keyboard/monitor, audio problems, monitor arm adjustments) Communicated in person professionally with a variety of users. Conduct logistical/technical surveys specifying quantities, placement, and location of end-user devices. Perform quality assurance testing to verify accurate drive mappings, IP addressing, host names, and functionality of applications by physical testing of equipment on site"
+        "title":"IT/Relocation Technician",
+        "years":"March 2016 - January 2019",
+        "description":"Perform quality assurance testing to verify accurate drive mappings, IP addressing, host names, and functionality of applications. Conduct logistical/technical surveys specifying quantities, placement, and location of end-user devices. Ensure accurate reconnection of end-user workstations to network, including all data and power cables use the cable pathways, and fully operational workstation. Clients include: JP Morgan, Goldman Sachs, LP Bloomberg, BBDO."
       }
     ],
     "skills":[
@@ -65,6 +65,10 @@
       },
       {
         "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
         "level":"80%"
       },
       {
