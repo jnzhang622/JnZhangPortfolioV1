@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"I find programing to be an adventure as well as constant puzzles waiting to be solved. The frustration of being stumped is off putting but the satisfaction of success is soooo addicting",
     "image":"profilepic.jpg",
-    "bio":"I am a Software Engineer experienced in Ruby on Rails and JavaScript based programming with a background in Computer Support. I possess much experience in conveying technical terms to simpler interpretation. I am passionate about using my Software Engineering expertise to make complex technology, less so and for the usage of it's various tools to be an enjoyable experience. On the side I am a casual gamer, a platform that I would love to dive into and potentially show others a world I've only dreamt of.",
+    "bio":"I am a FullStack Engineer experienced in Ruby on Rails and JavaScript based programming with a background in Computer Support. I possess much experience in conveying technical terms to simpler interpretation. I am passionate about using my Software Engineering expertise to make complex technology, less so and for the usage of it's various tools to be an enjoyable experience. On the side I am a casual gamer, a platform that I would love to dive into and potentially show others a world I've only dreamt of.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jnzhang622@gmail.com",
     "phone": "646-270-1672",
@@ -14,7 +14,7 @@
       "state":"New York",
       "zip": "10314"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://jn-zhang622.web.app",
     "resumedownload":"https://drive.google.com/file/d/1z9nheqlXmHGLkAkLS7QASd9GZPwnL30W/view?usp=sharing",
     "social":[
       {
@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Possess a foundation foundation in Ruby and Javascript, I am confident I can learn any framework or language.",
+    "skillmessage":"Possessing a foundation in Ruby and Javascript, I am confident I can learn any framework or language.",
     "education":[
       {
         "school":"Flatiron School",
@@ -47,7 +47,7 @@
         "school":"Devry College",
         "degree":"Network and System Administration",
         "graduated":"June 2016",
-        "description":"I was taught how to utilize and manage network devices such as routers, switches and servers to build fully functioning computer networks."
+        "description":"Taught how to utilize and manage network devices such as routers, switches and servers to build fully functioning computer networks."
       }
     ],
     "work":[
@@ -55,7 +55,7 @@
         "company":"UnidataIT",
         "title":"IT/Relocation Technician",
         "years":"March 2016 - January 2019",
-        "description":"Perform quality assurance testing to verify accurate drive mappings, IP addressing, host names, and functionality of applications. Conduct logistical/technical surveys specifying quantities, placement, and location of end-user devices. Ensure accurate reconnection of end-user workstations to network, including all data and power cables use the cable pathways, and fully operational workstation. Clients include: JP Morgan, Goldman Sachs, LP Bloomberg, BBDO."
+        "description":"Perform quality assurance testing to verify accurate drive mappings, IP addressing, host names, and functionality of applications. Conduct logistical/technical surveys specifying quantities, placement, and location of end-user devices. Ensure accurate reconnection of end-user workstations to network, including all data and power cables using the cable pathways, and fully operational workstation. Clients include: JP Morgan, Goldman Sachs, LP Bloomberg, BBDO."
       }
     ],
     "skills":[
