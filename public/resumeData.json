@@ -110,6 +110,12 @@
         "category":"A Ruby CLI app to keep track of Pokemon teams I make",
         "image":"pokemonteambuilder.jpg",
         "url":"https://youtu.be/3gAXutsQ59E"
+      },
+      {
+        "title":"Nominate Movie",
+        "category":"Like a movie? Nominate it. Uses ReactJS frontend, Rails backend and the OMDB API.",
+        "image":"nominatemovie.jpg",
+        "url":"https://youtu.be/bVEYH1a4vT8"
       }
     ]
   },
